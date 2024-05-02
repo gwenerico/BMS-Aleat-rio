@@ -1,1 +1,1 @@
-# BMS-Aleat-rio
+# BMS-Aleatório
